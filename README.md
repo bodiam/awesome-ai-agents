@@ -1115,7 +1115,7 @@ Here's an awesome list of AI agents:
 
 ### Allscreenshots
 <div><a href="https://github.com/allscreenshots/allscreenshots-plugin"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/allscreenshots/allscreenshots-plugin"><img src="https://img.shields.io/github/stars/allscreenshots/allscreenshots-plugin?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/allscreenshots">@allscreenshots</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/bodiam">@bodiam</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/885">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/885">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/allscreenshots">@allscreenshots</a></p>
 <p>🔌 MCP Servers | 🔧 Tool Calling (Function Calling)</p>
 
 <p>Allscreenshots is an MCP server and Claude Code/Codex plugin that lets agents capture website screenshots, run bulk captures, and manage screenshot schedules through the Allscreenshots API.</p>
